@@ -34,14 +34,7 @@ Route::get('/ip', function () {
     dd($data);
 });
 
-
-
-Route::get('/ip', function () {
-    $ip= \Request::ip();
-    $data = \Location::get($ip);
-    dd($data);
-});
-
+ 
 
 
 // Route::get('login/facebook', 'Auth\LoginController@redirectToProvider');
