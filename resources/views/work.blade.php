@@ -34,10 +34,10 @@ Designation:    <b>PHP Web Developer</b><br>
 Duration:       April 2017 to October 2017<br>
 <br>
 Projects:<br>
-• IFA Frontend in AngularJS<br>
-Project Link: <a href="http://app.finpeace.co/login.html" target="_blank">http://app.finpeace.co/login.html</a> <br>
-• Excel upload module using Maatwebsite library of Laravel<br>
-Project Link: <a href="http://admin.finpeace.co/login" target="_blank">http://admin.finpeace.co/login</a><br>
+• IFA Frontend in AngularJS 
+ <a href="http://app.finpeace.co/login.html" target="_blank">Project Link</a> <br>
+• Excel upload module using Maatwebsite library of Laravel 
+ <a href="http://admin.finpeace.co/login" target="_blank">Project Link</a><br>
 • FinPeace webapp for mobile browser<br>
 <br><br>
 Company:        OELS, Dombivli<br>
@@ -45,14 +45,14 @@ Designation:    <b>Web Designer and Developer</b><br>
 Duration:       March 2016 to April 2017<br>
 <br>
 Projects:<br>
-• Platformer Game in HTML5 canvas<br>
-Project link: <a href="http://test.onkarelearnings.com/m/index.html" target="_blank">http://test.onkarelearnings.com/m/index.html</a><br>
-• Abhiyan Theory, Practice and Questions session <br>
-Project link: <a href="http://test.onkarelearnings.com/A2/" target="_blank">http://test.onkarelearnings.com/A2/</a><br>
-• Holy Rose School Website in ASP.Net<br>
-Project link: <a href="http://www.holyroseschool.com/" target="_blank">http://www.holyroseschool.com/</a><br>
-• Windows8 like layout using jQuery for CBSE<br>
-Project link: <a href="http://cbse.onkarelearnings.com/index1.html" target="_blank">http://cbse.onkarelearnings.com/index1.html</a>
+• Platformer Game in HTML5 canvas 
+<a href="http://test.onkarelearnings.com/m/index.html" target="_blank">Project link</a><br>
+• Abhiyan Theory, Practice and Questions session  
+<a href="http://test.onkarelearnings.com/A2/" target="_blank">Project link</a><br>
+• Holy Rose School Website in ASP.Net 
+<a href="http://www.holyroseschool.com/" target="_blank">Project link</a><br>
+• Windows8 like layout using jQuery for CBSE 
+<a href="http://cbse.onkarelearnings.com/index1.html" target="_blank">Project link</a>
  
                     </p>
                 </div>

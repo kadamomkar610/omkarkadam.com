@@ -28,6 +28,13 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/work','HomeController@work')->name('work');
 Route::get('/contact','HomeController@contact')->name('contact');
 
+Route::get('/ip', function () {
+    $ip= \Request::ip();
+    $data = \Location::get($ip);
+    dd($data);
+});
+
+
 
 Route::get('/ip', function () {
     $ip= \Request::ip();
