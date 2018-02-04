@@ -30,7 +30,8 @@ Editor and IDE: MS Visual Studio, MS SQL Server, Sublime Text.<br>
 Operating System: Windows XP, 7, 8, 10, MintOS, UBUNTU 16.04 (LINUX).<br>
  
                     </p>
-
+<br>
+<a href="/omkar_kadam_resume" class="btn btn-success" target="_blank">Download resume</a>
 
                 </div>
             </div>
