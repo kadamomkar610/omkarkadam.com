@@ -43,6 +43,11 @@
     .panel{
 	border:none;
     }
+
+    .cust-download-cv{
+        background: transparent !important;
+        border-color: white !important;
+    }
     </style>
 </head>
 <body>

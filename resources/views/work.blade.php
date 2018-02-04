@@ -19,7 +19,7 @@ Total <b>2+ years</b> of experience in Web Designing and Development.
 <br><br>
 
 
-<a href="/omkar_kadam_resume" class="btn btn-success" target="_blank">Download resume</a>
+<a href="/omkar_kadam_resume" class="btn btn-success cust-download-cv" target="_blank">Download Resume</a>
 
 <br><br>
 

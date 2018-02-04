@@ -1,6 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
+
+
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -31,7 +33,7 @@ Operating System: Windows XP, 7, 8, 10, MintOS, UBUNTU 16.04 (LINUX).<br>
  
                     </p>
 <br>
-<a href="/omkar_kadam_resume" class="btn btn-success" target="_blank">Download resume</a>
+<a href="/omkar_kadam_resume" class="btn btn-success cust-download-cv" target="_blank">Download Resume</a>
 
                 </div>
             </div>
