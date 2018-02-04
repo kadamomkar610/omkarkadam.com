@@ -16,7 +16,12 @@
                     <p>
 
 Total <b>2+ years</b> of experience in Web Designing and Development.
-<br><br><br>
+<br><br>
+
+
+<a href="/omkar_kadam_resume" class="btn btn-success" target="_blank">Download resume</a>
+
+<br><br>
 
 Company:        Webcubic Technologies, Dadar.<br>
 Designation:    <b>PHP Web Developer</b><br>

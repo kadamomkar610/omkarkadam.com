@@ -11,6 +11,7 @@
 |
 */
 use App\Visitor;
+use Illuminate\Http\Response;
 
 Route::get('/', function () {
 
@@ -44,6 +45,15 @@ Route::get('/', function () {
 	}
     
     return view('welcome');
+});
+
+Route::get('/omkar_kadam_resume', function () {
+ 
+     // dd(123);
+	$file=Storage::get('omkar_kadam_resume.doc');
+	$file_mime_type="application/msword";
+
+	return (new Response($file, 200)) ->header('Content-Type', $file_mime_type);
 });
 
 Auth::routes();
