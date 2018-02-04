@@ -48,8 +48,6 @@ Route::get('/', function () {
 
 Auth::routes();
 
-
-
 Route::get('login/{service}', 'Auth\LoginController@redirectToProvider');
 Route::get('login/{service}/callback', 'Auth\LoginController@handleProviderCallback');
 
@@ -66,7 +64,9 @@ Route::get('/ip', function () {
     dd($data);
 });
 
- 
+Route::resource('resume', 'ResumeController');
+
+  
 
 
 // Route::get('login/facebook', 'Auth\LoginController@redirectToProvider');

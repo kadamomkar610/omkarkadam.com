@@ -181,6 +181,9 @@ return [
 
         Stevebauman\Location\LocationServiceProvider::class,
 
+        Collective\Html\HtmlServiceProvider::class,
+
+
     ],
 
     /*
@@ -233,6 +236,9 @@ return [
         'Socialite' => Laravel\Socialite\Facades\Socialite::class,
 
         'Location' => Stevebauman\Location\Facades\Location::class,
+
+        'Form' => Collective\Html\FormFacade::class,
+        'Html' => Collective\Html\HtmlFacade::class,
 
     ],
 
